@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: chat-app-frontend
-        image: yash2463/frontend-backend:latest
+        image: yash2463/chatapp-frontend:latest
         resources:
           limits:
             memory: "128Mi"
